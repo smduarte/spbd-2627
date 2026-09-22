@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+section {
+  width:auto;
+  float:none;
+  position:static;
+}
+
+header {
+  width:auto;
+  float:none;
+  position:static;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
