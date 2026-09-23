@@ -1,8 +1,10 @@
-# Lab 0
+# Lab 1
 
 ## Objectives
 
 Google Colab environment preview...
+
+Present the baseline exercises that will be covered in future labs.
 
 ## Materials:
 
