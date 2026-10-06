@@ -1,10 +1,12 @@
-# Lab 0
+# Lab 2
 
 ## Objectives
 
-Google Colab environment preview...
+- Pure Python exercise solutions
+- MapReduce exercises
 
 ## Materials:
 
-[Example](https://github.com/smduarte/spbd-2526/blob/main/docs/labs/lab0/SPBD_Labs_python0_exercise.ipynb)
+[Lab1 - Solutions](https://github.com/smduarte/spbd-2627/blob/main/docs/labs/lab2/SPBD_Labs_python1_solutions.ipynb)
+[Lab2 - MapReduce](https://github.com/smduarte/spbd-2627/blob/main/docs/labs/lab2/SPBD_Labs_python1_solutions.ipynb)
 
