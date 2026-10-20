@@ -2,7 +2,8 @@
 
 ## Objectives
 
-- MapReduce exercises
+- Review Spark Core exercises solutions;
+- Spark Dataframes exercises.
 
 ## Materials:
 
