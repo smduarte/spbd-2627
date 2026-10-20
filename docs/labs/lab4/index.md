@@ -1,12 +1,11 @@
-# Lab 2
+# Lab 4
 
 ## Objectives
 
-- Pure Python exercise solutions
 - MapReduce exercises
 
 ## Materials:
 
-[Lab1 - Solutions](https://github.com/smduarte/spbd-2627/blob/main/docs/labs/lab2/SPBD_Labs_python1_solutions.ipynb)
-[Lab2 - MapReduce](https://github.com/smduarte/spbd-2627/blob/main/docs/labs/lab2/SPBD_Labs_python1_solutions.ipynb)
+[Lab3 - Solutions](https://github.com/smduarte/spbd-2627/blob/main/docs/labs/lab4/SPBD_Labs_spark1_solutions.ipynb)
+[Lab3 - Spark Dataframes](https://github.com/smduarte/spbd-2627/blob/main/docs/labs/lab4/SPBD_Labs_spark2_exercises.ipynb)
 
