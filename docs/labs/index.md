@@ -5,4 +5,5 @@
 * [Lab 3](lab3) - MapReduce exercises solutions ; Spark Core exercises
 * [Lab 4](lab4) - Spark Core solutions ; Spark Dataframes exercises
 * [Lab 5](lab5) - Spark Dataframes solutions ; Spark SQL exercises
+* [Lab 6](lab6) - Spark SQL solutions.
 
