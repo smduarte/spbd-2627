@@ -6,5 +6,5 @@
 
 ## Materials:
 
-[Lab6 - Solutions](https://github.com/smduarte/spbd-2627/blob/main/docs/labs/lab6/SPBD_Labs_spark3_solutions.ipynb)
+[Lab6 - Solutions](https://github.com/smduarte/spbd-2627/blob/main/docs/labs/lab6/SPBD_Labs_spark3_exercises_solutions.ipynb)
 
