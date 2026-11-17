@@ -7,3 +7,6 @@
 * [Lab 5](lab5) - Spark Dataframes solutions ; Spark SQL exercises
 * [Lab 6](lab6) - Spark SQL solutions.
 
+# Project 
+
+* [Project bried/Enunciado](proj/SPBD2627_Project.ipynb) - Spark SQL solutions.
