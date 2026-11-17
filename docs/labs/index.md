@@ -9,4 +9,4 @@
 
 # Project 
 
-* [Project bried/Enunciado](proj/SPBD2627_Project.ipynb) 
+* [Project brief (Enunciado) ](proj/SPBD2627_Project.ipynb) 
